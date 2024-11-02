@@ -1,4 +1,4 @@
-# Fine Frontend assessment
+# Frontend assessment @ Fine / Volders
 
 The purpose of this exercise is to for you to show your ability to integrate new features into an already existing project. You may design the page however you like. 
 
@@ -54,4 +54,4 @@ Please deliver your work as a private fork of the repository. Make sure we can s
 
 Good luck! 
 
-If you have any questions regarding the test please send them to **nicolas.mazitelli@fine.legal** and I will get back to you as soon as possible.
+If you have any questions regarding the test please send them to **florian.heiwig@volders.de** and I will get back to you as soon as possible.
