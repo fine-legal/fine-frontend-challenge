@@ -9,15 +9,37 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@faker-js/faker": "^9.2.0",
+    "@fontsource/roboto": "^5.1.0",
+    "@mui/icons-material": "^6.1.6",
+    "@mui/material": "^6.1.6",
     "@types/node": "20.5.7",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
+    "axios": "^1.7.7",
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
+    "fine-frontend-challenge": "file:",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "moment": "^2.30.1",
     "next": "13.4.19",
+    "next-auth": "^4.24.10",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-toastify": "^10.0.6",
     "sass": "^1.66.1",
-    "typescript": "5.2.2"
+    "typescript": "5.2.2",
+    "uuid": "^11.0.2",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.0.1",
+    "@types/lodash": "^4.17.13",
+    "@types/mocha": "^10.0.9",
+    "@types/next": "^9.0.0",
+    "@types/testing-library__react": "^10.2.0"
   }
 }
